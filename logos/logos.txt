@@ -1,0 +1,7 @@
+screen_count = 1
+screen_time = 4.0
+screen_back = 0,0,0
+
+screen_file_1 = gcc_logo.jpg
+screen_back_1 = 50,50,50
+screen_time_1 = 5
